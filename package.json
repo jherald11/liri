@@ -16,13 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seanhalupczynski/liri-node-app.git"
+    "url": "git+https://github.com/jherald11/liri.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/seanhalupczynski/liri-node-app/issues"
+    "url": "https://github.com/github.com/jherald11/liri/issues"
   },
-  "homepage": "https://github.com/seanhalupczynski/liri-node-app#readme"
+  "homepage": "https://github.com/jherald11/liri#readme"
 }
+
+
